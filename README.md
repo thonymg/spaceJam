@@ -32,8 +32,11 @@ Pour avoir des données comparables il est important que les paramètres entre l
 
 ## Paramètres de simulation :
 Nombre de véhicules : 5400
+
 Durée de la simulation : 5600s
+
 Flux de piétons : 16 à intervalle de 3,5 secondes à des positions semi-aléatoires sur le parcours.
+
 Les piétons causent un ralentissement, moyenne de 70% de la vitesse des véhicules à proximité, et peuvent même causer l’arrêt total du flux de circulation en cas « d’accident ». 
 Chaque seconde la simulation nous aurons des données sur l’état courant de la circulation. Ces indicateurs sont les suivantes : 
 -	L'émission de CO par seconde par véhicule. 
@@ -80,7 +83,9 @@ Le scénario 1 présente quelques changements par rapport au scénario contrôle
 “Carte”
 ### Scénario 2
 Le scénario 2 consiste en une modification totale du sens de la route de Nanisana et d’Ambatobe. En effet dans ce scénario nous avons décidé de changer la route vers la monter d’Ambatobe depuis la station essence à Analamahitsy en sens unique qui ne servira qu’à monté à Ambatobe, pas de descente donc. Et la route de Nanisana vers Analamahitsy en sens unique vers Analamahitsy uniquement. La descente depuis Ambatobe se fera depuis la route partant du rondpoint Ambatobe vers Nanisana. 
-Scénario 3
+
+### Scénario 3
+
 Le scénario 3 ne diffère du scénario contrôle que sur la gestion des cycles de passages, et la mise en place d’une deuxième voie sur la rue qui relie la station essence Total et la pharmacie d’Avaradrano. En théorie cette route peut accueillir 2 voitures en parallèle, mais sont état, les voitures mal garées dessus en fait que cette route est sous-exploitée. 
 
 “Carte”
@@ -116,10 +121,10 @@ Dans la simulation nous avons pu déterminer les sources des embouteillages et a
 
 ## Limite 
 ### Technique : 
-Ubuntu 18.4
-Intel core i7
-16 Go de RAM
-SSD 512 Go
+- Ubuntu 18.4
+- Intel core i7-6700HQ
+- 16 Go de RAM
+- SSD 512 Go
 
 Avec cette configuration nous n’avons pu simuler et analyser qu’une partie de la ville. Les données de chaque scénario ont une moyenne de 1 Go soit à peu près 3,6 millions de lignes. Pour simuler, l'intégralité de la ville nécessiterait des machines avec des puissances de calculs largement supérieures. 
 La cartographie satellitaire que nous avons utilisée manque de précision. Certains aménagements ne sont pas pris en compte et d’autres sont mal représentés. C’est notre connaissance du terrain qui nous a permis de distinguer le vrai du faux. De plus cette cartographie satellitaire ne représente pas l’état des routes. Une cartographie via des drones serait plus précise et plus à jour.  
@@ -149,11 +154,13 @@ Quant aux heures de sorties, rien n'empêche la commune de proposer aux écoles 
 ## Possibilités
 
 Il nous est possible de simuler bien d’autres choses que les embouteillages. Et le besoin que nous jugeons le plus important que nous sommes entrain d’analyser actuellement c’est la simulation des zones de marché. Nous sommes entrain de réfléchir sur comment améliorer 
+
 comme nous l’avons cité précédemment avec la puissance de calcule nécessaire il serait tout à fait possible de simuler le flux dans la ville entière. Cela procurera un bon nombre d’avantages tant à la fois dans la gestion de la circulation, que dans la gestion des agents sur terrain.   
+
 Simulation de la ville entière avec:
-Trajet selon heures/jours.
-Gestion plus efficace des marchés et des foules.
+- Trajet selon heures/jours.
+- Gestion plus efficace des marchés et des foules.
 
-
+paix et guerison
 
 
