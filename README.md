@@ -1,5 +1,7 @@
 # spaceJam (preview)
 
+![SpaceJam logo](https://github.com/thonymg/spaceJam/blob/main/img/logo.png "SpaceJam logo")
+
 > Exténués. Les usagers le sont. Furieux, ils ne le sont pas moins, face à la situation actuelle à Antananarivo en matière de circulation.
 « C’en est trop ! », lance-t-on un peu partout, quand les véhicules restent immobiles pendant plus d’une heure, ou que les usagers mettent deux heures, voire davantage pour parcourir moins d’un kilomètre. C’est le cas dans toutes les sorties de la ville, notamment à Ampitatafika vers Anosizato ou en sens inverse. La situation est similaire à Andravoahangy, Ankorondrano, aux 67ha, à Faravohitra, à Behoririka, Analamahitsy, ou encore sur la route circulaire, bref, partout. Il ne faut pas attendre les « heures de pointe » pour le vivre, dans la mesure où le ralentissement de la circulation est visible dès les premières heures de la journée, parfois dès 6h dans certaines zones.
 … Le problème de circulation est-il alors sans solution pour la capitale ? Pour l’instant, les efforts déployés par les agents de police de la circulation ne sont pas couronnés de grands succès sans mettre en doute leur bonne volonté, car sans les agents de police postés sur les carrefours et les croisements.
@@ -51,8 +53,6 @@ Un véhicule sorti de la simulation (qui arrive à destination) n’émet plus d
 
 Nous garderons donc comme indicateur de performance le niveau d’émission de gaz, plus facilement quantifiable   
 
-GIF (début simulation)
-
 ### Scénarios
 Étant donné que nous sommes sur simulateur, nous avons mis en place plusieurs scénarii afin de trouver la meilleure configuration routière possible. Les scénarii imaginés (pour le moment) ne nécessitent aucun investissement en infrastructure (ou très limités). Donc si un des scénarii est le plus performant en simulation, il est tout à fait possible pour la commune de le mettre en place sans attendre afin de vérifier la performance.
 
@@ -68,7 +68,7 @@ La simulation se fera de manière suivante :
 -	Les véhicules ont pour point d’arrivée les quartiers précédemment cités. Mais cette fois avec une différence d’ordre de 22 à 38% quant à la répartition du nombre de véhicules selon le point d’arriver. 
 -	Chaque véhicule prendra le chemin le plus court possible pour atteindre sont objectif, indépendamment de la performance de ce trajet.
 
-			MAP
+![map](https://github.com/thonymg/spaceJam/blob/main/img/map.png "map")
 
 ### Le scénario contrôle  
 Le scénario contrôle représente l’état actuel de la circulation. Elle reprend à l’identique (ou presque) les configurations routières qui sont en place à Analamahitsy. Ce scénario nous servira par la suite de base comparaison avec les autres scénarios où on modifie les configurations routières. 
