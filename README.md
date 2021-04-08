@@ -125,8 +125,8 @@ La distance parcourue nous informe aussi sur l'intensité des embouteillages, pl
 
 En somme le scénario le plus performant est celui avec le moins de gaz émis et plus de distance parcourue sur l’ensemble de la simulation.
 
-|   | contrôle  |  scenario 1  |  scenario 2  |  scenario 3   | unit | 
-|  ------------  |  ------------  | 
+| -  | contrôle  |  scenario 1  |  scenario 2  |  scenario 3   | unit | 
+| ------------- | ------------- |  ------------- | ------------- |  ------------- | ------------- |
 | distance |  14 471,97  |  6 529,06  |  8 857,10  |  15 345,73  | km
 | co |  239,53  |  797,44  |  581,32  |  163,35  | kg
 | co2 |  10 257,42  |  20 576,89  |  16 452,34  |  9 070,32  | kg
