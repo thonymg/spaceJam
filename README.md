@@ -125,19 +125,19 @@ La distance parcourue nous informe aussi sur l'intensité des embouteillages, pl
 
 En somme le scénario le plus performant est celui avec le moins de gaz émis et plus de distance parcourue sur l’ensemble de la simulation.
 
- |   | contrôle  |  scenario 1  |  scenario 2  |  scenario 3   | unit | 
- |  ------------  |  ------------  | 
- | distance |  14 471,97  |  6 529,06  |  8 857,10  |  15 345,73  | km
- | co |  239,53  |  797,44  |  581,32  |  163,35  | kg
- | co2 |  10 257,42  |  20 576,89  |  16 452,34  |  9 070,32  | kg
- | hc |  9,57  |  29,51  |  21,54  |  6,56  | kg
- | nox |  58,68  |  121,85  |  96,74  |  52,95  | kg
- | pmx |  2,20  |  5,77  |  4,35  |  1,76  | kg
- | loaded vehicle |  5 400,00  |  5 400,00  |  5 400,00  |  5 400,00  | - | 
- | departed vehicle |  4 820,00  |  3 395,00  |  3 836,00  |  4 951,00  | - | 
- | running vehicle |  1 031,00  |  2 215,00  |  1 768,00  |  563,00  | - | 
- | arrived vehicle |  3 789,00  |  1 180,00  |  2 068,00  |  4 388,00  | - | 
- | avg speed |  1,64  |  0,11  |  0,29  |  4,75  | m/s
+|   | contrôle  |  scenario 1  |  scenario 2  |  scenario 3   | unit | 
+|  ------------  |  ------------  | 
+| distance |  14 471,97  |  6 529,06  |  8 857,10  |  15 345,73  | km
+| co |  239,53  |  797,44  |  581,32  |  163,35  | kg
+| co2 |  10 257,42  |  20 576,89  |  16 452,34  |  9 070,32  | kg
+| hc |  9,57  |  29,51  |  21,54  |  6,56  | kg
+| nox |  58,68  |  121,85  |  96,74  |  52,95  | kg
+| pmx |  2,20  |  5,77  |  4,35  |  1,76  | kg
+| loaded vehicle |  5 400,00  |  5 400,00  |  5 400,00  |  5 400,00  | - | 
+| departed vehicle |  4 820,00  |  3 395,00  |  3 836,00  |  4 951,00  | - | 
+| running vehicle |  1 031,00  |  2 215,00  |  1 768,00  |  563,00  | - | 
+| arrived vehicle |  3 789,00  |  1 180,00  |  2 068,00  |  4 388,00  | - | 
+| avg speed |  1,64  |  0,11  |  0,29  |  4,75  | m/s
 
 
 Selon notre simulation le scénario 3 est la meilleure des 3 et bien plus performant que le scénario contrôle.
