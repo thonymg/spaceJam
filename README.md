@@ -1,4 +1,4 @@
-# spaceJam (draft)
+# spaceJam (preview)
 
 > Exténués. Les usagers le sont. Furieux, ils ne le sont pas moins, face à la situation actuelle à Antananarivo en matière de circulation.
 « C’en est trop ! », lance-t-on un peu partout, quand les véhicules restent immobiles pendant plus d’une heure, ou que les usagers mettent deux heures, voire davantage pour parcourir moins d’un kilomètre. C’est le cas dans toutes les sorties de la ville, notamment à Ampitatafika vers Anosizato ou en sens inverse. La situation est similaire à Andravoahangy, Ankorondrano, aux 67ha, à Faravohitra, à Behoririka, Analamahitsy, ou encore sur la route circulaire, bref, partout. Il ne faut pas attendre les « heures de pointe » pour le vivre, dans la mesure où le ralentissement de la circulation est visible dès les premières heures de la journée, parfois dès 6h dans certaines zones.
